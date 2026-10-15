@@ -16,10 +16,10 @@
 
 ### QJRbinutils
 
-**QJRas** - https://github.com/QJR-Herman-Molodyks/QJRas.git
-**QJRcc** - https://github.com/QJR-Herman-Molodyks/QJRcc.git
-**QJRld** - https://github.com/QJR-Herman-Molodyks/QJRld.git
-**QJRmake** - https://github.com/QJR-Herman-Molodyks/QJRmake.git
+**QJRas** - https://github.com/QJR-Herman-Molodyks/QJRas.git  
+**QJRcc** - https://github.com/QJR-Herman-Molodyks/QJRcc.git  
+**QJRld** - https://github.com/QJR-Herman-Molodyks/QJRld.git  
+**QJRmake** - https://github.com/QJR-Herman-Molodyks/QJRmake.git  
 
 ### Other components
 
